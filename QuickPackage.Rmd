@@ -41,8 +41,7 @@ devtools::create("qp")
 - Meta-data
 - code (`R`, but also `C`, `C++`, FORTRAN, ...)
 - Documentation
-- (data)
-- ...
+- and more
 
 ### Development cycle
 
