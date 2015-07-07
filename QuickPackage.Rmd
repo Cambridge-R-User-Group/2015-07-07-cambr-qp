@@ -1,6 +1,6 @@
 ---
 title: "Quick `R` package"
-author: "Laurent Gatto - http://github.com/lgatto" 
+author: "Laurent Gatto - @lgatt0 - http://github.com/lgatto" 
 date: "7 July 2015 - CambR meeting"
 output: ioslides_presentation
 ---
