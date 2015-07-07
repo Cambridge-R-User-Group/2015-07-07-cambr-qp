@@ -18,9 +18,9 @@ output: ioslides_presentation
 - **Project management**
 
 ## Advice
-- Start early
-- Document early
-- Test it!
+- Start **early**
+- Document **early**
+- Test it **early**
 - Split personality: *developer* and *user*
 
 ## Example
@@ -133,4 +133,6 @@ shine(pc)
 
 - [Writing `R` Extensions](http://cran.r-project.org/doc/manuals/r-devel/R-exts.html), R Core Team
 - [`R` package](http://r-pkgs.had.co.nz/), Hadley Wickham
+- [R OO programming and package development](http://www.training.cam.ac.uk/gsls/course/gsls-radv) course in Cambridge
+- [More material](http://lgatto.github.io/TeachingMaterial/)
 
