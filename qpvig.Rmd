@@ -1,0 +1,22 @@
+---
+title: "Quick Package"
+author: "Laurent Gatto"
+output: rmarkdown::html_document 
+vignette: >
+      %\VignetteIndexEntry{A quick vignette}
+      %\VignetteEngine{knitr::rmarkdown}
+---
+
+# Here it is
+
+A simple vignette for a quick package.
+
+```{r}
+library(qp)
+f()
+```
+
+# Further reading
+
+- [Writing `R` Rxtensions](http://cran.r-project.org/doc/manuals/r-devel/R-exts.html), R Core Team
+- [`R` package](http://r-pkgs.had.co.nz/), Hadley Wickham
