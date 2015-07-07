@@ -1,0 +1,9 @@
+Package: qp
+Title: Nothing, really
+Version: 1.1
+Author: Laurent
+Maintainer: Laurent <lg390@cam.ac.uk>
+Description: Nothing, don't insist.
+License: GPL-2
+Suggests: knitr, rmarkdown, testthat
+VignetteBuilder: knitr
