@@ -135,4 +135,4 @@ shine(pc)
 - [`R` package](http://r-pkgs.had.co.nz/), Hadley Wickham
 - [R OO programming and package development](http://www.training.cam.ac.uk/gsls/course/gsls-radv) course in Cambridge
 - [More material](http://lgatto.github.io/TeachingMaterial/)
-
+- [Building packages for Bioconductor](http://www.bioconductor.org/developers/how-to/buildingPackagesForBioc/)
